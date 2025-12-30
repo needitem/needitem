@@ -63,7 +63,7 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 <p align="center">
   <a href="https://github.com/needitem">
-    <img src="https://github-profile-trophy.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy-one-chi.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
