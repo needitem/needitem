@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Taeho Kim
 
+
 **Software Developer @ Pixoneer | South Korea, Daejeon**
 
 [![GitHub followers](https://img.shields.io/github/followers/needitem?style=social)](https://github.com/needitem)
