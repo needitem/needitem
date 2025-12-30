@@ -52,8 +52,8 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/needitem">
-    <img src="https://streak-stats.demolab.com/?user=needitem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=needitem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
