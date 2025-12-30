@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+﻿<div align="center">
 
 # 👋 Hi, I'm Taeho Kim
 
@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 게임 개발, 자동화 도구, 그리고 다양한 유틸리티 프로젝트를 만드는 것을 좋아하는 개발자입니다.  
 C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있습니다.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -33,19 +33,18 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**MakcuRelay**](https://github.com/needitem/MakcuRelay) | UDP listener for aim/mouse commands relay to Makcu device | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
-| [**needaimbot**](https://github.com/needitem/needaimbot) | Aim assistance tool | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
+| [**MakcuRelay**](https://github.com/needitem/MakcuRelay) | UDP listener for aim/mouse commands relay | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
 | [**needitem-tweak**](https://github.com/needitem/needitem-tweak) | Meteor Client addon for Minecraft 1.21.11 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk) |
-| [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage visualization | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
+| [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
 | [**autostock**](https://github.com/needitem/autostock) | Stock automation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -59,7 +58,7 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -71,11 +70,10 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 <div align="center">
 
-### 💬 Let's Connect!
+###  Let's Connect!
 
 프로젝트 협업이나 질문이 있으시면 언제든 연락주세요!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=needitem&color=blueviolet&style=flat)
 
 </div>
-]]>
