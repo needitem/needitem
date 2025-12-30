@@ -49,11 +49,17 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=needitem&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/needitem">
+  <img src="https://github-readme-stats.vercel.app/api?username=needitem&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=needitem&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/needitem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=needitem&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=needitem&theme=tokyonight&hide_border=true)
+<a href="https://github.com/needitem">
+  <img src="https://streak-stats.demolab.com/?user=needitem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -63,7 +69,9 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=6)
+<a href="https://github.com/needitem">
+  <img src="https://github-profile-trophy.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</a>
 
 </div>
 
