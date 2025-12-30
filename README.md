@@ -1,14 +1,11 @@
-<![CDATA[<div align="center">
-
-# 👋 Hi, I'm Taeho Kim
-
-
-**Software Developer @ Pixoneer | South Korea, Daejeon**
-
-[![GitHub followers](https://img.shields.io/github/followers/needitem?style=social)](https://github.com/needitem)
-[![Email](https://img.shields.io/badge/Email-th07290828%40gmail.com-red?style=flat&logo=gmail)](mailto:th07290828@gmail.com)
-
-</div>
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Taeho Kim</h1>
+  <p align="center"><b>Software Developer @ Pixoneer | South Korea, Daejeon</b></p>
+  <p align="center">
+    <a href="https://github.com/needitem"><img src="https://img.shields.io/github/followers/needitem?style=social" alt="GitHub followers" /></a>
+    <a href="mailto:th07290828@gmail.com"><img src="https://img.shields.io/badge/Email-th07290828%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>
+  </p>
+</p>
 
 ---
 
@@ -21,16 +18,14 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
 
 ---
 
@@ -48,43 +43,36 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/needitem">
-  <img src="https://github-readme-stats-one-pied-13.vercel.app/api?username=needitem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/needitem">
-  <img src="https://github-readme-stats-one-pied-13.vercel.app/api/top-langs/?username=needitem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-
-<a href="https://github.com/needitem">
-  <img src="https://streak-stats.demolab.com/?user=needitem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/needitem">
+    <img src="https://github-readme-stats-one-pied-13.vercel.app/api?username=needitem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/needitem">
+    <img src="https://github-readme-stats-one-pied-13.vercel.app/api/top-langs/?username=needitem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/needitem">
+    <img src="https://streak-stats.demolab.com/?user=needitem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<a href="https://github.com/needitem">
-  <img src="https://github-profile-trophy.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/needitem">
+    <img src="https://github-profile-trophy.vercel.app/?username=needitem&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 💬 Let's Connect!
-
-프로젝트 협업이나 질문이 있으시면 언제든 연락주세요!
-
-![Profile Views](https://komarev.com/ghpvc/?username=needitem&color=blueviolet&style=flat)
-
-</div>
-]]>
+<p align="center">
+  <h3 align="center">💬 Let's Connect!</h3>
+  <p align="center">프로젝트 협업이나 질문이 있으시면 언제든 연락주세요!</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=needitem&color=blueviolet&style=flat" alt="Profile Views" />
+  </p>
+</p>
