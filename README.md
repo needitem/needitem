@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">👋 Hi, I'm Taeho Kim</h1>
-  <p align="center"><b>Software Developer @ Pixoneer | South Korea, Daejeon</b></p>
+  <p align="center"><b>Software Developer | South Korea, Daejeon</b></p>
   <p align="center">
     <a href="https://github.com/needitem"><img src="https://img.shields.io/github/followers/needitem?style=social" alt="GitHub followers" /></a>
     <a href="mailto:th07290828@gmail.com"><img src="https://img.shields.io/badge/Email-th07290828%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>
