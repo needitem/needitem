@@ -4,6 +4,7 @@
   <p align="center">
     <a href="https://github.com/needitem"><img src="https://img.shields.io/github/followers/needitem?style=social" alt="GitHub followers" /></a>
     <a href="mailto:th07290828@gmail.com"><img src="https://img.shields.io/badge/Email-th07290828%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>
+    <a href="https://discord.com/users/kimtaeho%233792"><img src="https://img.shields.io/badge/Discord-kimtaeho%233792-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 </p>
 
@@ -11,8 +12,8 @@
 
 ## 🚀 About Me
 
-게임 개발, 자동화 도구, 그리고 다양한 유틸리티 프로젝트를 만드는 것을 좋아하는 개발자입니다.  
-C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있습니다.
+I'm a developer who loves creating games, automation tools, and various utility projects.
+I work on projects using multiple languages including C++, Python, and TypeScript.
 
 ---
 
@@ -35,7 +36,7 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 |---------|-------------|------|
 | [**MakcuRelay**](https://github.com/needitem/MakcuRelay) | UDP listener for aim/mouse commands relay to Makcu device | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
 | [**needaimbot**](https://github.com/needitem/needaimbot) | Aim assistance tool | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
-| [**needitem-tweak**](https://github.com/needitem/needitem-tweak) | Meteor Client addon for Minecraft 1.21.11 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk) |
+| [**IL2CPP-Dumper**](https://github.com/needitem/IL2CPP-Dumper) | IL2CPP dumper for Unity games | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) |
 | [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage visualization | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
 | [**autostock**](https://github.com/needitem/autostock) | Stock automation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
 
@@ -71,7 +72,7 @@ C++, Python, TypeScript 등 다양한 언어로 프로젝트를 진행하고 있
 
 <p align="center">
   <h3 align="center">💬 Let's Connect!</h3>
-  <p align="center">프로젝트 협업이나 질문이 있으시면 언제든 연락주세요!</p>
+  <p align="center">Feel free to reach out for project collaboration or any questions!</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=needitem&color=blueviolet&style=flat" alt="Profile Views" />
   </p>
