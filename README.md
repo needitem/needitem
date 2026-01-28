@@ -39,6 +39,7 @@ I work on projects using multiple languages including C++, Python, and TypeScrip
 | [**IL2CPP-Dumper**](https://github.com/needitem/IL2CPP-Dumper) | IL2CPP dumper for Unity games | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) |
 | [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage visualization | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
 | [**autostock**](https://github.com/needitem/autostock) | Stock automation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
+| [**blueprotocol**](https://github.com/needitem/blueprotocol) | Blue Protocol game tools | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
 
 ---
 
