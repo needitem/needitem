@@ -26,6 +26,8 @@ I work on projects using multiple languages including C++, Python, and TypeScrip
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
@@ -34,12 +36,12 @@ I work on projects using multiple languages including C++, Python, and TypeScrip
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**MakcuRelay**](https://github.com/needitem/MakcuRelay) | UDP listener for aim/mouse commands relay to Makcu device | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
+| [**pixllm**](https://github.com/needitem/pixllm-unified-consolidated) | Consolidated PIXLLM docs and implementation source of truth | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte) |
 | [**needaimbot**](https://github.com/needitem/needaimbot) | Aim assistance tool | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
 | [**IL2CPP-Dumper**](https://github.com/needitem/IL2CPP-Dumper) | IL2CPP dumper for Unity games | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) |
 | [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage visualization | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
 | [**autostock**](https://github.com/needitem/autostock) | Stock automation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
-| [**blueprotocol**](https://github.com/needitem/blueprotocol) | Blue Protocol game tools | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) |
+| [**remodex**](https://github.com/needitem/remodex-windows-fix) | Windows-friendly remodex fork with codex app-server launcher fix | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 ---
 
