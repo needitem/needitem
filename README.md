@@ -19,13 +19,31 @@ I work on projects using multiple languages including C++, Python, and TypeScrip
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+### Frameworks & App Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/VS%20Code%20Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Extension" />
+</p>
+
+### Tools & Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -34,13 +52,13 @@ I work on projects using multiple languages including C++, Python, and TypeScrip
 
 ## ⭐ Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---------|-------------|------|
-| [**pixllm**](https://github.com/needitem/pixllm-unified-consolidated) | Consolidated PIXLLM docs and implementation source of truth | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte) |
-| [**IL2CPP-Dumper**](https://github.com/needitem/IL2CPP-Dumper) | IL2CPP dumper for Unity games | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) |
-| [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension for code coverage visualization | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
-| [**autostock**](https://github.com/needitem/autostock) | Stock automation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
-| [**remodex**](https://github.com/needitem/remodex-windows-fix) | Windows-friendly remodex fork with codex app-server launcher fix | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [**pixllm**](https://github.com/needitem/pixllm-unified-consolidated) | Unified PIXLLM workspace that consolidates documentation, implementation context, and reference material into a single source of truth. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte) |
+| [**IL2CPP-Dumper**](https://github.com/needitem/IL2CPP-Dumper) | Reverse-engineering utility for extracting metadata and structures from Unity IL2CPP builds. | ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) |
+| [**vscode-coverage-highlighter**](https://github.com/needitem/vscode-coverage-highlighter) | VS Code extension that highlights test coverage directly in the editor to speed up feedback while developing. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) ![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| [**autostock**](https://github.com/needitem/autostock) | Python-based trading and market automation project for collecting signals and executing repetitive stock workflows. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Automation](https://img.shields.io/badge/-Automation-4B8BBE?style=flat) |
+| [**html-preview-vscode**](https://github.com/needitem/html-preview-vscode) | Lightweight HTML preview extension focused on a fast local authoring loop inside Visual Studio Code. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
 ---
 
